@@ -8,7 +8,7 @@ function Header() {
             <a href="/" className='navbar-brand'>
                 <div className="d-flex">
                     <img src={logo} className='mr-2' alt="" />
-                    <div>PorjectMgmt</div>
+                    <div>ProjectMgmt</div>
                 </div>
             </a>
         </div>
